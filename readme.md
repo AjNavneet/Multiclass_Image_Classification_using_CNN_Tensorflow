@@ -1,4 +1,4 @@
-# Multiclass Image Classification using CNN and Tensorflow
+# Multiclass Image Classification using CNN with Tensorflow
 
 ## Business Objective
 
