@@ -64,23 +64,4 @@ The aim of this project is to build a sequential model using tensorflow that can
    - `Inference.ipynb`
 
 ---
-   
-## Key Concepts Explored
-
-1. How the human brain recognizes objects.
-2. Basics of convolutional neural networks.
-3. Input images to CNN.
-4. Activation functions: Step, Sigmoid, ReLU, leaky ReLU.
-5. Pooling layers: max and average pooling.
-6. Flattening in CNN.
-7. Multiclass and multilabel classification.
-8. Sigmoid and softmax functions.
-9. Loss function: binary cross-entropy.
-10. Optimizers: gradient descent, stochastic gradient descent.
-11. Data augmentation.
-12. Model building and training.
-13. Saving the model.
-14. Making predictions on the test data.
-
----
 
